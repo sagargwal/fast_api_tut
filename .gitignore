@@ -1,0 +1,9 @@
+$content = @"
+fastenv/
+__pycache__/
+.env
+*.pyc
+.vscode/
+"@
+
+[System.IO.File]::WriteAllLines("$PWD\.gitignore", $content, (New-Object System.Text.UTF8Encoding $false))
