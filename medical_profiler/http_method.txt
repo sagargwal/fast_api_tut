@@ -1,0 +1,79 @@
+TYPES OF SOFTWARE
+
+Static Software
+Static software has very little or no interaction between the user and the software in terms of changing or managing data.
+It mainly displays information.
+
+Examples:
+Clock
+Calendar
+Basic calculator
+
+Dynamic Software
+Dynamic software allows interaction between the user and the software.
+The user can input data, and the software can process, store, modify, or delete that data.
+
+Examples:
+MS Excel
+Google Docs
+Banking software
+E-commerce applications
+
+CRUD OPERATIONS IN DYNAMIC SOFTWARE
+
+Dynamic software usually performs four basic data operations called CRUD:
+
+Create – Add new data
+Retrieve – Read or fetch existing data
+Update – Modify existing data
+Delete – Remove data
+
+CRUD is a data-handling concept and is most commonly used in dynamic software.
+
+TYPES OF WEBSITES
+
+Static Websites
+Static websites show fixed content.
+The same content is shown to every user.
+There is no database or user-based interaction.
+
+Examples:
+Portfolio websites
+Documentation pages
+
+Dynamic Websites
+Dynamic websites change their content based on user interaction.
+They use backend logic and databases.
+
+Examples:
+Gmail
+Amazon
+Social media platforms
+
+CLIENT–SERVER MODEL
+
+Websites are not installed on the user’s system.
+They are hosted on a server.
+
+Client:
+The client is the user interaction point.
+Examples: web browser, mobile app, frontend UI.
+
+Server:
+The server contains the application logic and database.
+It processes requests and sends responses back to the client.
+
+HTTP PROTOCOL
+
+HTTP (HyperText Transfer Protocol) defines the rules for communication between the client and the server.
+It specifies how requests are sent and how responses are returned.
+
+HTTP METHODS AND CRUD (CORRECTED)
+
+CRUD operations are mapped to HTTP methods as follows:
+
+Create – POST
+Retrieve – GET
+Update – PUT or PATCH
+Delete – DELETE
+

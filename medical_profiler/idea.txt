@@ -1,0 +1,24 @@
+the objective here is to create a digital profile patients that can be filled by the doctor via an app our objective here is to build an api that returns a json file 
+
+the json file contains 
+"p001":{
+    "id" : "p001",
+    "name" : "ananya sharma",
+    "city" : "guwahati",
+    "age" : "20",
+    "gender" : "female"
+    and other columns
+}
+
+
+there are sevral endpoints
+
+create : that allows to create a profile 
+
+view : to view the whole database 
+
+view_per_id : to veiw the data of a person by id 
+
+update : to update a patients data 
+
+delete : to delete a patients data
