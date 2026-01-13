@@ -1,0 +1,7 @@
+path parameters are dynamic segments of a url path used to identify a specific resource 
+
+it allows user to retrieve, update, delete from a specific resource 
+ 
+Path fuction in fast api metadata, validation, rules and documentation for path parameters in your document endpoints
+
+you can add description or examples 

@@ -1,0 +1,8 @@
+https  status code is a 3 digit code that is return by a web server to indicate the result of a client's request
+like from a browser or a api consumer
+
+2xx indicates it was a success 
+3xx indicates redirection further action needed to be taken 
+4xx indicates something is wrong from the client side 
+5xx indicates something is wrong from the server end 
+
